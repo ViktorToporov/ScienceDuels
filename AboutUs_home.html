@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="assets/images/icons/logo.ico" type="image/x-icon">
+  <title>Science Duels</title>
+  <link rel="stylesheet" href="assets/css/AboutUs.css">
+  <link rel="stylesheet" href="assets/css/slideshow.css">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand|Baloo+Paaji|Bree+Serif" rel="stylesheet">
+</head>
+
+<body class="bg">
+  <div class="header">
+    <div class="top">
+      <h3 class="logo">ScienceDuels</h3>
+      <nav>
+        <a href="dashboard.php">
+          <div class="button-fill grey">
+            <div class="button-text">&#1053;&#1072;&#1079;&#1072;&#1076;</div>
+            <div class="button-inside">
+              <div class="inside-text">&#1053;&#1072;&#1079;&#1072;&#1076;</div>
+            </div>
+          </div>
+        </a>
+        <a href="profile.php" ">
+                              <div class="button-fill orange ">
+                                <div class="button-text ">&#1055;&#1088;&#1086;&#1092;&#1080;&#1083;</div>
+                                <div class="button-inside ">
+                                 <div class="inside-text ">&#1055;&#1088;&#1086;&#1092;&#1080;&#1083;</div>
+                                </div>
+                              </div>
+                            </a>
+                            <a href="index.html "">
+          <div class="button-fill orange">
+            <div class="button-text">&#1048;&#1079;&#1093;&#1086;&#1076;</div>
+            <div class="button-inside">
+              <div class="inside-text">&#1048;&#1079;&#1093;&#1086;&#1076;</div>
+            </div>
+          </div>
+        </a>
+      </nav>
+    </div>
+  </div>
+  <center>
+    <div id="slideshow2" class="images">
+      <div>
+        <img id="img2" src="assets/images/Us/us1.jpg">
+      </div>
+      <div>
+        <img id="img2" src="assets/images/Us/us1.jpg">
+      </div>
+      <div>
+        <img id="img2" src="assets/images/Us/us1.jpg">
+      </div>
+      <center>
+    </div>
+    <div id="info">
+      <div id="Awesome" class="anim750">
+
+        <div class="reveal circle_wrapper">
+          <div class="circle">Front-end</div>
+        </div>
+
+        <div class="sticky anim750">
+          <div class="front circle_wrapper anim750">
+            <div class="circle anim750"></div>
+          </div>
+        </div>
+
+        <div class="sticky anim750">
+          <div class="back circle_wrapper anim750">
+            <div class="circle anim750"></div>
+          </div>
+        </div>
+
+      </div>
+
+
+      <div id="Awesome2" class="anim7502">
+
+        <div class="reveal2 circle_wrapper2">
+          <div class="circle2">Back-end</div>
+        </div>
+
+        <div class="sticky2 anim7502">
+          <div class="front2 circle_wrapper2 anim7502">
+            <div class="circle2 anim7502"></div>
+          </div>
+        </div>
+
+        <div class="sticky2 anim7502">
+          <div class="back2 circle_wrapper2 anim7502">
+            <div class="circle2 anim7502"></div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+    <a href="index.html">
+      <div class="button-fill grey">
+        <div class="button-text">&#1042;&#1080;&#1082;&#1090;&#1086;&#1088; &#1058;&#1086;&#1087;&#1086;&#1088;&#1086;&#1074;</div>
+        <div class="button-inside">
+          <div class="inside-text">&#1051;&#1080;&#1095;&#1077;&#1085;&nbsp;&#1059;&#1077;&#1073;&#1089;&#1072;&#1081;&#1090;</div>
+        </div>
+      </div>
+    </a>
+    <a href="index.html">
+      <div class="button-fill grey">
+        <div class="button-text">&#1050;&#1088;&#1080;&#1089;&#1090;&#1080;&#1072;&#1085; &#1057;&#1087;&#1072;&#1089;&#1086;&#1074;</div>
+        <div class="button-inside">
+          <div class="inside-text">&#1051;&#1080;&#1095;&#1077;&#1085;&nbsp;&#1059;&#1077;&#1073;&#1089;&#1072;&#1081;&#1090;</div>
+        </div>
+      </div>
+    </a>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>
+      $(".button-fill").hover(function () {
+          $(this).children(".button-inside").addClass('full');
+      }, function() {
+        $(this).children(".button-inside").removeClass('full');
+      });
+    </script>
+
+    <script>
+      $("#slideshow2 > div:gt(0)").hide();
+      
+      setInterval(function() { 
+        $('#slideshow2 > div:first')
+          .fadeOut(1000)
+          .next()
+          .fadeIn(1000)
+          .end()
+          .appendTo('#slideshow2');
+      },  3000);
+    </script>
+</body>
+
+</html>

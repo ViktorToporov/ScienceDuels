@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <title>Science Duels</title>
+  <link rel="shortcut icon" href="assets/images/icons/logo.ico" type="image/x-icon">
+  <link rel="stylesheet" href="assets/css/index.css">
+  <link rel="stylesheet" href="assets/css/slideshow.css">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand|Neucha" rel="stylesheet">
+</head>
+<body>
+  <div class="header">
+    <div class="top">
+      <h3 class="logo">ScienceDuels</h3>
+      <nav>
+        <a href="login.html">
+          <div class="button-fill grey">
+            <div class="button-text">Влизане</div>
+            <div class="button-inside">
+              <div class="inside-text">Влизане</div>
+            </div>
+          </div>
+        </a>
+        <a href="signup.html">
+          <div class="button-fill orange ">
+            <div class="button-text ">Регистрация</div>
+            <div class="button-inside ">
+              <div class="inside-text ">Регистрация</div>
+            </div>
+          </div>
+        </a>
+        <a href="AboutUs.html">
+          <div class="button-fill orange">
+            <div class="button-text">За нас</div>
+            <div class="button-inside">
+              <div class="inside-text">За&nbsp;нас</div>
+            </div>
+          </div>
+        </a>
+      </nav>
+    </div>
+  </div>
+  <div id="heading">
+    <center>
+      <h3 class="mainheading">Постави знанията си на тест<br> в платформата <strong style="font-family: 'Quicksand', sans-serif;">ScienceDuels</strong><br> и спечели награди!</h3></center>
+    <br>
+    <center>
+      <div id="slideshow">
+        <div>
+          <img id="img" src="assets/images/slideshows/ComingSoon.jpg">
+        </div>
+        <div>
+          <img id="img" src="assets/images/slideshows/ComingSoon.jpg">
+        </div>
+        <div>
+          <img id="img" src="assets/images/slideshows/ComingSoon.jpg">
+        </div>
+        <center>
+      </div><br>
+      <?php include 'loginerror.php';?>
+      <div class="page">
+        <center>
+          <div class="info">
+            <h1 class="heading-left">Какво е ScienceDuels (НаучниДуели)?</h1>
+            <p class="info-p">ScienceDuels е платформа, която събира играчи от целия свят и тества знанията им в определените науки.</p>
+          </div>
+        </center>
+        <br>
+        <center>
+          <div class="info">
+            <h1 class="heading-right">Кои са науките?</h1>
+            <p class="info-p  ">Играчите могат да се "дуелират" в сферите на математиката, физиката, химията и информатиката.
+              <p>
+          </div>
+        </center>
+        <br>
+        <center>
+          <div class="info">
+            <h1 class="heading-left">Какви са правилата?</h1>
+            <p class="info-p  ">Правилата са прости - избирате наука, трудност и тип. Типовете дуели са BO1 (1 въпрос/задача), Bo3 (3 въпроса/задачи) и Bo5 (5 въпроса/задачи), съответно с по 1, 3 и 5 "рунда" за дуел.</p>
+          </div>
+        </center>
+        <br>
+        <center>
+          <div class="info">
+            <h1 class="heading-right">Какви са задачите?</h1>
+            <p class="info-p  ">Избрали сме задачи и въпроси от множество тестове, изпити, олимпиади и състезания. Също така, всеки потребител може да предложи задача за добавяне в играта!</p>
+          </div>
+        </center>
+        <br>
+        <center>
+          <div class="info">
+            <h1 class="heading-left">Как оценяваме?</h1>
+            <p class="info-p  ">В зависимост от науката и задачата, ние оценяваме по различен начин. Например, за информатиката, използваме системата "CMS", за да проверим кода. В другите науки, взимаме в предвид ВАШИЯТ начин на решаване на зададения проблем.
+              След края на всеки рунд и в края на играта, играчът може да види каква е оценката му и спечелените точки.</p>
+          </div>
+        </center>
+        <br>
+        <center>
+          <div class="info">
+            <h1 class="heading-right">Точки? Какви са тези точки?</h1>
+            <p class="info-p  ">Получавате Science Coins след всеки дуел. Колко ще получите зависи от оценката Ви, избраната трудност и активните Ви бонуси. Докато сте в сайта ни - ScienceDuels.tk, може да получите бонус. Тези бонуси се използват както за получаване на повече SC (Science Coins) и забързване на повишаването на нивото ви, така и за много други функции! Срещу спечелените SC, получавате награди! Може да избирате измежду тениски, чаши и много други невероятни предмети!
+            </p>
+          </div>
+        </center>
+        <br><br><br>
+        <center>
+          <div class="info">
+            <h1 class="heading">Какво чакате?</h1>
+            <h1 style="font-family: 'Neucha', sans-serif;"><strong>Регистрирайте се сега</strong> и станете <strong> най-добрите</strong>!</h1><br>
+            <a href="signup.html" class="button">
+              <span>&nbsp; Да започваме!</span>
+            </a>
+            <br><br><br></div>
+        </center><br><br>
+      </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+      <script>
+        $(".button-fill").hover(function () {
+            $(this).children(".button-inside").addClass('full');
+        }, function() {
+          $(this).children(".button-inside").removeClass('full');
+        });
+        </script>
+      <script>
+        $("#slideshow > div:gt(0)").hide();
+        setInterval(function() { 
+          $('#slideshow > div:first')
+            .fadeOut(1000)
+            .next()
+            .fadeIn(1000)
+            .end()
+            .appendTo('#slideshow');
+        },  3000);
+      </script>
+</body>
+</html>

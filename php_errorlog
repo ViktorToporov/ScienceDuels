@@ -1,0 +1,203 @@
+[01-Oct-2016 06:27:28 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/upload.php on line 8
+[01-Oct-2016 06:28:01 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/upload.php on line 8
+[01-Oct-2016 06:28:09 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/upload.php on line 8
+[01-Oct-2016 06:31:38 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/upload.php on line 4
+[01-Oct-2016 06:41:49 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/upload.php on line 3
+[01-Oct-2016 06:53:22 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/upload.php on line 21
+[03-Oct-2016 07:58:09 CST6CDT] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/crazyde/public_html/scienceduels.tk/upload.php on line 18
+[03-Oct-2016 07:58:38 CST6CDT] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/crazyde/public_html/scienceduels.tk/upload.php on line 18
+[03-Oct-2016 09:12:16 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/crazyde/public_html/scienceduels.tk/register.php on line 100
+[03-Oct-2016 09:12:58 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/crazyde/public_html/scienceduels.tk/register.php on line 102
+[03-Oct-2016 09:14:17 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/crazyde/public_html/scienceduels.tk/register.php on line 102
+[03-Oct-2016 09:15:29 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/crazyde/public_html/scienceduels.tk/register.php on line 101
+[03-Oct-2016 09:15:49 CST6CDT] PHP Parse error:  syntax error, unexpected T_ELSE in /home/crazyde/public_html/scienceduels.tk/register.php on line 28
+[03-Oct-2016 09:16:36 CST6CDT] PHP Parse error:  syntax error, unexpected T_ELSE in /home/crazyde/public_html/scienceduels.tk/register.php on line 28
+[05-Oct-2016 01:21:03 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/crazyde/public_html/scienceduels.tk/register.php on line 38
+[05-Oct-2016 01:25:09 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/crazyde/public_html/scienceduels.tk/register.php on line 106
+[06-Oct-2016 02:14:25 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/profile.php on line 135
+[06-Oct-2016 02:25:56 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/login.php on line 52
+[06-Oct-2016 02:27:22 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/login.php on line 52
+[06-Oct-2016 02:28:00 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/crazyde/public_html/scienceduels.tk/login.php on line 60
+[07-Oct-2016 09:18:44 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:19:41 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:19:42 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:19:42 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:20:08 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:20:09 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:20:09 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:20:16 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:20:23 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[07-Oct-2016 09:23:40 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/profile.php on line 44
+[07-Oct-2016 09:23:42 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/profile.php on line 44
+[08-Oct-2016 01:08:53 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/register.php on line 96
+[08-Oct-2016 01:10:34 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/register.php on line 96
+[08-Oct-2016 01:11:12 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/register.php on line 96
+[17-Oct-2016 06:53:25 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 11
+[17-Oct-2016 06:54:23 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:55:34 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:09 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:10 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:10 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:10 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:10 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:10 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:11 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:11 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:11 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:11 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:12 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:12 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:13 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:14 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:46 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:47 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:48 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 06:59:48 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 07:07:49 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[17-Oct-2016 07:09:18 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 12
+[20-Oct-2016 02:58:43 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/crazyde/public_html/scienceduels.tk/maths-lobby.php on line 55
+[17-Nov-2016 01:56:52 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 01:57:32 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 01:58:10 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 01:59:13 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 02:00:24 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 02:02:34 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 02:03:51 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 02:05:03 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 02:05:17 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 122
+[17-Nov-2016 02:05:34 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 122
+[17-Nov-2016 02:05:53 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 122
+[17-Nov-2016 02:06:13 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 122
+[17-Nov-2016 02:06:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 122
+[17-Nov-2016 02:07:02 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 122
+[17-Nov-2016 02:08:40 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 129
+[17-Nov-2016 02:19:53 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:21:53 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:21:56 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:22:12 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:22:55 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:23:18 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:24:22 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:27:23 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:27:41 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:28:00 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:28:17 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 02:28:35 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 03:10:41 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 03:11:43 CST6CDT] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 03:12:00 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 03:12:16 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 130
+[17-Nov-2016 03:14:28 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 131
+[17-Nov-2016 03:17:02 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 133
+[17-Nov-2016 03:19:55 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 132
+[17-Nov-2016 03:21:13 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 138
+[17-Nov-2016 03:28:16 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 133
+[17-Nov-2016 03:29:09 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 133
+[17-Nov-2016 03:29:23 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 133
+[17-Nov-2016 03:32:00 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 132
+[17-Nov-2016 03:39:23 CST6CDT] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 132
+[17-Nov-2016 03:40:13 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 132
+[17-Nov-2016 03:40:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 132
+[18-Nov-2016 07:30:14 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 138
+[18-Nov-2016 07:30:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 138
+[18-Nov-2016 07:34:21 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 137
+[18-Nov-2016 07:34:22 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 137
+[18-Nov-2016 07:34:41 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 137
+[18-Nov-2016 07:34:42 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 137
+[18-Nov-2016 09:56:05 CST6CDT] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 2
+[19-Nov-2016 04:50:17 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 39
+[19-Nov-2016 05:07:05 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 40
+[19-Nov-2016 05:11:32 CST6CDT] PHP Fatal error:  Call to undefined function check_login() in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 4
+[19-Nov-2016 05:12:33 CST6CDT] PHP Fatal error:  Call to undefined function check_login() in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 4
+[19-Nov-2016 05:12:35 CST6CDT] PHP Fatal error:  Call to undefined function check_login() in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 4
+[19-Nov-2016 05:12:35 CST6CDT] PHP Fatal error:  Call to undefined function check_login() in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 4
+[19-Nov-2016 05:12:35 CST6CDT] PHP Fatal error:  Call to undefined function check_login() in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 4
+[20-Nov-2016 05:43:23 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'http://scienceduels.tk/check_login.inc.php' (include_path='.:/usr/local/php53/pear') in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 3
+[20-Nov-2016 05:43:25 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'http://scienceduels.tk/check_login.inc.php' (include_path='.:/usr/local/php53/pear') in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 3
+[20-Nov-2016 05:43:27 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'http://scienceduels.tk/check_login.inc.php' (include_path='.:/usr/local/php53/pear') in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 3
+[20-Nov-2016 05:43:42 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'http://scienceduels.tk/check_login.inc.php' (include_path='.:/usr/local/php53/pear') in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 3
+[20-Nov-2016 05:44:05 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'http://scienceduels.tk/check_login.inc.php' (include_path='.:/usr/local/php53/pear') in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 3
+[20-Nov-2016 05:44:06 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'http://scienceduels.tk/check_login.inc.php' (include_path='.:/usr/local/php53/pear') in /home/crazyde/public_html/scienceduels.tk/lobby-waiting.php on line 3
+[20-Nov-2016 05:48:48 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 39
+[20-Nov-2016 05:49:33 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 39
+[20-Nov-2016 05:50:20 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 39
+[20-Nov-2016 05:50:26 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 39
+[20-Nov-2016 05:50:33 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 39
+[20-Nov-2016 05:50:39 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/addloby.php on line 39
+[20-Nov-2016 05:58:44 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 142
+[20-Nov-2016 06:06:40 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 142
+[20-Nov-2016 07:47:35 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:48:36 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:48:37 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:48:38 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:48:38 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:49:46 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:49:56 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:49:57 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:49:58 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 07:49:58 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 14
+[20-Nov-2016 08:02:01 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 15
+[20-Nov-2016 08:02:02 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 15
+[20-Nov-2016 08:05:25 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:05:26 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:05:53 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:05:54 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:05:54 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:05:54 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:09:12 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:09:45 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:09:59 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:12:00 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:12:01 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:12:02 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:12:03 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:12:16 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:15:10 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:15:11 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:15:19 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:15:20 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:24:00 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:24:01 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:24:01 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[20-Nov-2016 08:24:01 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/proba.php on line 11
+[21-Nov-2016 04:25:01 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 143
+[21-Nov-2016 04:30:03 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 176
+[21-Nov-2016 04:31:07 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 142
+[21-Nov-2016 04:32:10 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 176
+[21-Nov-2016 04:32:58 CST6CDT] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 176
+[21-Nov-2016 07:31:54 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 175
+[21-Nov-2016 07:35:30 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 177
+[21-Nov-2016 07:35:44 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 177
+[21-Nov-2016 07:37:05 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 177
+[21-Nov-2016 07:37:17 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 177
+[21-Nov-2016 07:38:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[21-Nov-2016 07:38:26 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[21-Nov-2016 07:38:47 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[21-Nov-2016 07:39:03 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 09:36:17 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 180
+[22-Nov-2016 09:36:18 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 180
+[22-Nov-2016 09:36:19 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 180
+[22-Nov-2016 09:36:19 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 180
+[22-Nov-2016 09:38:40 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/crazyde/public_html/scienceduels.tk/proba.php on line 19
+[22-Nov-2016 09:43:44 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 09:44:06 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 09:44:07 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 09:49:45 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 09:49:48 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 09:50:55 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 09:50:56 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 179
+[22-Nov-2016 10:06:48 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 178
+[22-Nov-2016 10:06:48 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 178
+[23-Nov-2016 01:37:05 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 188
+[24-Nov-2016 03:03:07 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 182
+[24-Nov-2016 03:03:15 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 182
+[24-Nov-2016 03:15:11 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 177
+[24-Nov-2016 03:23:23 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/crazyde/public_html/scienceduels.tk/maths-active-lobbies.php on line 178
+[24-Nov-2016 03:44:16 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/crazyde/public_html/scienceduels.tk/mama.php on line 1
+[24-Nov-2016 03:44:16 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/crazyde/public_html/scienceduels.tk/mama.php on line 1
+[24-Nov-2016 08:06:17 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/crazyde/public_html/scienceduels.tk/loglobby.php on line 12
+[24-Nov-2016 08:06:50 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/crazyde/public_html/scienceduels.tk/loglobby.php on line 13

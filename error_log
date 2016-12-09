@@ -1,0 +1,158 @@
+[10-Aug-2016 16:43:40 Europe/Sofia] PHP Warning:  include_once(dbconnect.php): failed to open stream: No such file or directory in /home/all4pain/public_html/CodeDuels1/register.php on line 3
+[10-Aug-2016 16:43:40 Europe/Sofia] PHP Warning:  include_once(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/all4pain/public_html/CodeDuels1/register.php on line 3
+[10-Aug-2016 16:43:40 Europe/Sofia] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/all4pain/public_html/CodeDuels1/register.php on line 20
+[10-Aug-2016 16:43:40 Europe/Sofia] PHP Warning:  mysql_query(): A link to the server could not be established in /home/all4pain/public_html/CodeDuels1/register.php on line 20
+[10-Aug-2016 16:43:40 Europe/Sofia] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/all4pain/public_html/CodeDuels1/register.php on line 22
+[10-Aug-2016 16:43:40 Europe/Sofia] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/all4pain/public_html/CodeDuels1/register.php on line 27
+[10-Aug-2016 16:43:40 Europe/Sofia] PHP Warning:  mysql_query(): A link to the server could not be established in /home/all4pain/public_html/CodeDuels1/register.php on line 27
+[10-Aug-2016 17:38:41 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/all4pain/public_html/CodeDuels1/login.php on line 20
+[10-Aug-2016 17:39:27 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/all4pain/public_html/CodeDuels1/login.php on line 22
+[10-Aug-2016 17:41:08 Europe/Sofia] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/all4pain/public_html/CodeDuels1/login.php on line 15
+[10-Aug-2016 17:42:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/all4pain/public_html/CodeDuels1/login.php on line 26
+[10-Aug-2016 17:43:23 Europe/Sofia] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 10
+[10-Aug-2016 17:43:23 Europe/Sofia] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 11
+[10-Aug-2016 17:43:23 Europe/Sofia] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 14
+[10-Aug-2016 17:44:03 Europe/Sofia] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 10
+[10-Aug-2016 17:44:03 Europe/Sofia] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 11
+[10-Aug-2016 17:44:03 Europe/Sofia] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 14
+[10-Aug-2016 17:44:41 Europe/Sofia] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 10
+[10-Aug-2016 17:44:41 Europe/Sofia] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 11
+[10-Aug-2016 17:44:41 Europe/Sofia] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 14
+[10-Aug-2016 17:45:11 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/login.php on line 27
+[10-Aug-2016 17:45:42 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/login.php on line 26
+[10-Aug-2016 17:45:58 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/login.php on line 26
+[10-Aug-2016 17:46:02 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/login.php on line 26
+[10-Aug-2016 17:46:30 Europe/Sofia] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 10
+[10-Aug-2016 17:46:30 Europe/Sofia] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 11
+[10-Aug-2016 17:46:30 Europe/Sofia] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 14
+[10-Aug-2016 17:47:59 Europe/Sofia] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 10
+[10-Aug-2016 17:47:59 Europe/Sofia] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 11
+[10-Aug-2016 17:47:59 Europe/Sofia] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 14
+[10-Aug-2016 18:28:37 Europe/Sofia] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/all4pain/public_html/CodeDuels1/login.php on line 29
+[10-Aug-2016 18:28:37 Europe/Sofia] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 30
+[10-Aug-2016 18:28:37 Europe/Sofia] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 33
+[10-Aug-2016 18:30:43 Europe/Sofia] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/all4pain/public_html/CodeDuels1/login.php on line 29
+[10-Aug-2016 18:30:43 Europe/Sofia] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 30
+[10-Aug-2016 18:30:43 Europe/Sofia] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/all4pain/public_html/CodeDuels1/login.php on line 33
+[10-Aug-2016 18:36:05 Europe/Sofia] PHP Fatal error:  Call to undefined function session_register() in /home/all4pain/public_html/CodeDuels1/login.php on line 34
+[10-Aug-2016 18:42:40 Europe/Sofia] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/all4pain/public_html/CodeDuels1/login.php on line 27
+[10-Aug-2016 18:42:40 Europe/Sofia] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/all4pain/public_html/CodeDuels1/login.php on line 30
+[10-Aug-2016 20:29:50 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:39) in /home/all4pain/public_html/CodeDuels1/login.php on line 40
+[10-Aug-2016 20:37:41 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:44) in /home/all4pain/public_html/CodeDuels1/login.php on line 45
+[10-Aug-2016 20:38:08 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:44) in /home/all4pain/public_html/CodeDuels1/login.php on line 45
+[10-Aug-2016 20:39:55 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 46
+[10-Aug-2016 20:39:59 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 46
+[10-Aug-2016 20:40:10 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 46
+[10-Aug-2016 20:44:47 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 47
+[10-Aug-2016 20:45:14 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 47
+[10-Aug-2016 20:45:17 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 47
+[10-Aug-2016 20:48:22 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 46
+[10-Aug-2016 20:48:22 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:45) in /home/all4pain/public_html/CodeDuels1/login.php on line 47
+[14-Aug-2016 14:44:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/login.php on line 28
+[14-Aug-2016 14:45:50 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/login.php on line 28
+[14-Aug-2016 14:46:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/login.php on line 28
+[14-Aug-2016 14:46:50 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/login.php on line 28
+[14-Aug-2016 14:48:11 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"username\"]."' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/all4pain/public_html/CodeDuels1/login.php on line 28
+[14-Aug-2016 14:48:38 Europe/Sofia] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/all4pain/public_html/CodeDuels1/login.php on line 24
+[14-Aug-2016 14:48:38 Europe/Sofia] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/all4pain/public_html/CodeDuels1/login.php on line 24
+[14-Aug-2016 14:48:38 Europe/Sofia] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/all4pain/public_html/CodeDuels1/login.php on line 25
+[14-Aug-2016 14:48:38 Europe/Sofia] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/all4pain/public_html/CodeDuels1/login.php on line 25
+[14-Aug-2016 14:48:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:24) in /home/all4pain/public_html/CodeDuels1/login.php on line 39
+[14-Aug-2016 16:51:29 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 83
+[14-Aug-2016 16:51:31 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 83
+[14-Aug-2016 16:51:44 Europe/Sofia] PHP Fatal error:  Function name must be a string in /home/all4pain/public_html/CodeDuels1/profile.php on line 83
+[14-Aug-2016 16:52:17 Europe/Sofia] PHP Fatal error:  Function name must be a string in /home/all4pain/public_html/CodeDuels1/profile.php on line 83
+[14-Aug-2016 17:02:18 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:02:19 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:03:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'firstname' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:03:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'firstname' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:03:57 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'firstname' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:03:58 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'firstname' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:03:58 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'firstname' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:05:11 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:05:12 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:12:02 Europe/Sofia] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/all4pain/public_html/CodeDuels1/login.php on line 38
+[14-Aug-2016 17:12:02 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:32) in /home/all4pain/public_html/CodeDuels1/login.php on line 43
+[14-Aug-2016 17:13:23 Europe/Sofia] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/all4pain/public_html/CodeDuels1/login.php on line 38
+[14-Aug-2016 17:13:23 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:32) in /home/all4pain/public_html/CodeDuels1/login.php on line 43
+[14-Aug-2016 17:13:44 Europe/Sofia] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/all4pain/public_html/CodeDuels1/login.php on line 38
+[14-Aug-2016 17:13:44 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:32) in /home/all4pain/public_html/CodeDuels1/login.php on line 43
+[14-Aug-2016 17:13:50 Europe/Sofia] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/all4pain/public_html/CodeDuels1/login.php on line 38
+[14-Aug-2016 17:13:50 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/all4pain/public_html/CodeDuels1/login.php:32) in /home/all4pain/public_html/CodeDuels1/login.php on line 43
+[14-Aug-2016 17:15:29 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:15:39 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:15:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:15:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:15:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:15:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:15:41 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:16:58 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 173
+[14-Aug-2016 17:18:45 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 108
+[14-Aug-2016 17:18:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 108
+[14-Aug-2016 17:19:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:20:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:20:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:20:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:21:32 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:21:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:21:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:21:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 174
+[14-Aug-2016 17:22:59 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:23:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:23:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting ']' in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:24:36 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:24:37 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/all4pain/public_html/CodeDuels1/profile.php on line 99
+[14-Aug-2016 17:27:59 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:28:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:28:32 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:28:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:28:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:28:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:28:44 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:28:45 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 195
+[14-Aug-2016 17:29:42 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 201
+[14-Aug-2016 17:29:42 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 201
+[14-Aug-2016 17:33:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 193
+[14-Aug-2016 17:33:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 193
+[14-Aug-2016 17:33:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 193
+[14-Aug-2016 17:33:04 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 193
+[14-Aug-2016 17:33:04 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/profile.php on line 193
+[14-Aug-2016 17:42:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/all4pain/public_html/CodeDuels1/profile.php on line 104
+[14-Aug-2016 17:42:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/all4pain/public_html/CodeDuels1/profile.php on line 104
+[14-Aug-2016 17:49:17 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'cursor' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 112
+[14-Aug-2016 17:49:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'cursor' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 112
+[14-Aug-2016 17:49:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'cursor' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 112
+[14-Aug-2016 17:49:48 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'cursor' (T_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 112
+[14-Aug-2016 17:51:04 Europe/Sofia] PHP Fatal error:  Cannot use [] for reading in /home/all4pain/public_html/CodeDuels1/profile.php on line 104
+[14-Aug-2016 17:59:28 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 60
+[14-Aug-2016 17:59:29 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 60
+[14-Aug-2016 17:59:51 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 17:59:52 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 17:59:52 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 17:59:53 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 18:00:18 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 18:00:19 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 18:00:19 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 18:00:19 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 18:00:19 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 18:01:42 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/profile.php on line 61
+[14-Aug-2016 18:31:12 Europe/Sofia] PHP Warning:  include_once(../dbconnect.php): failed to open stream: No such file or directory in /home/all4pain/public_html/CodeDuels1/register.php on line 10
+[14-Aug-2016 18:31:12 Europe/Sofia] PHP Warning:  include_once(): Failed opening '../dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/all4pain/public_html/CodeDuels1/register.php on line 10
+[14-Aug-2016 18:31:12 Europe/Sofia] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/all4pain/public_html/CodeDuels1/register.php on line 28
+[14-Aug-2016 18:31:12 Europe/Sofia] PHP Warning:  mysql_query(): A link to the server could not be established in /home/all4pain/public_html/CodeDuels1/register.php on line 28
+[14-Aug-2016 18:31:12 Europe/Sofia] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/all4pain/public_html/CodeDuels1/register.php on line 30
+[14-Aug-2016 18:31:12 Europe/Sofia] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/all4pain/public_html/CodeDuels1/register.php on line 37
+[14-Aug-2016 18:31:12 Europe/Sofia] PHP Warning:  mysql_query(): A link to the server could not be established in /home/all4pain/public_html/CodeDuels1/register.php on line 37
+[14-Aug-2016 18:38:42 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/all4pain/public_html/CodeDuels1/test.php on line 31
+[15-Aug-2016 10:32:22 Europe/Sofia] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/all4pain/public_html/CodeDuels1/register.php on line 15
+[15-Aug-2016 11:35:27 Europe/Sofia] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/all4pain/public_html/CodeDuels1/register.php on line 15
+[15-Aug-2016 11:36:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/all4pain/public_html/CodeDuels1/register.php on line 15
+[15-Aug-2016 11:36:32 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'DA' (T_STRING), expecting ',' or ';' in /home/all4pain/public_html/CodeDuels1/register.php on line 66
+[16-Aug-2016 11:38:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 17
+[16-Aug-2016 11:40:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 21
+[16-Aug-2016 11:40:41 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 21
+[16-Aug-2016 11:41:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 20
+[16-Aug-2016 11:42:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 20
+[16-Aug-2016 11:42:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 20
+[16-Aug-2016 11:42:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 20
+[16-Aug-2016 11:49:11 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/all4pain/public_html/CodeDuels1/lobby.php on line 20
